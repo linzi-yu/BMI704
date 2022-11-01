@@ -1,5 +1,4 @@
-# BMI704
-Data Science for Medical Decision Making
+# BMI704 Data Science for Medical Decision Making
 Materials include: 
 
 1. video recording of the explanation of a directed project: Framingham Risk Score and Clinical Decisions
